@@ -457,6 +457,10 @@ section {
 .skills .progress-bar-wrap {
   background: #dce8f8;
   height: 10px;
+  display: none;
+}
+.skills .sklil-level{
+  font-size: 13px;
 }
 
 .skills .progress-bar {
